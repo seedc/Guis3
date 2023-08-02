@@ -1,5 +1,6 @@
 # 图形化 S3 桶上传工具
 
+![enter image description here](https://github.com/seedc/Guis3/blob/e9e404e64421e3d24ad90b430fcd68d9b3329285/image.jpg)
 
 本工具在MacOS下开发，其他系统可能需要修改config路径为./config.yaml
 
